@@ -1,0 +1,15 @@
+E:\MyPrograms\TestC#Skills\Chapter10Solution\DemoProjectsForDelegates\bin\Debug\net6.0\DemoProjectsForDelegates.exe
+E:\MyPrograms\TestC#Skills\Chapter10Solution\DemoProjectsForDelegates\bin\Debug\net6.0\DemoProjectsForDelegates.deps.json
+E:\MyPrograms\TestC#Skills\Chapter10Solution\DemoProjectsForDelegates\bin\Debug\net6.0\DemoProjectsForDelegates.runtimeconfig.json
+E:\MyPrograms\TestC#Skills\Chapter10Solution\DemoProjectsForDelegates\bin\Debug\net6.0\DemoProjectsForDelegates.dll
+E:\MyPrograms\TestC#Skills\Chapter10Solution\DemoProjectsForDelegates\bin\Debug\net6.0\ref\DemoProjectsForDelegates.dll
+E:\MyPrograms\TestC#Skills\Chapter10Solution\DemoProjectsForDelegates\bin\Debug\net6.0\DemoProjectsForDelegates.pdb
+E:\MyPrograms\TestC#Skills\Chapter10Solution\DemoProjectsForDelegates\obj\Debug\net6.0\DemoProjectsForDelegates.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\TestC#Skills\Chapter10Solution\DemoProjectsForDelegates\obj\Debug\net6.0\DemoProjectsForDelegates.AssemblyInfoInputs.cache
+E:\MyPrograms\TestC#Skills\Chapter10Solution\DemoProjectsForDelegates\obj\Debug\net6.0\DemoProjectsForDelegates.AssemblyInfo.cs
+E:\MyPrograms\TestC#Skills\Chapter10Solution\DemoProjectsForDelegates\obj\Debug\net6.0\DemoProjectsForDelegates.csproj.CoreCompileInputs.cache
+E:\MyPrograms\TestC#Skills\Chapter10Solution\DemoProjectsForDelegates\obj\Debug\net6.0\DemoProjectsForDelegates.dll
+E:\MyPrograms\TestC#Skills\Chapter10Solution\DemoProjectsForDelegates\obj\Debug\net6.0\ref\DemoProjectsForDelegates.dll
+E:\MyPrograms\TestC#Skills\Chapter10Solution\DemoProjectsForDelegates\obj\Debug\net6.0\DemoProjectsForDelegates.pdb
+E:\MyPrograms\TestC#Skills\Chapter10Solution\DemoProjectsForDelegates\obj\Debug\net6.0\DemoProjectsForDelegates.genruntimeconfig.cache
+E:\MyPrograms\TestC#Skills\Chapter10Solution\DemoProjectsForDelegates\obj\Debug\net6.0\DemoProjectsForDelegates.csproj.AssemblyReference.cache

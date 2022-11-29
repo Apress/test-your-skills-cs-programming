@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/CdvvZHgXCSIzhni65xxoPO+GiUVlYlcWgOyg9JICrRrVufVts3rCdWHezn0nduGYsZ1DpKP+KiVSmR8gKR+Pw==",
+  "success": true,
+  "projectFilePath": "E:\\MyPrograms\\TestC#Skills\\Chapter11Solution\\11.P6\\11.P6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vaskaran Sarcar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.4\\microsoft.netcore.app.host.win-x64.6.0.4.nupkg.sha512",
+    "C:\\Users\\Vaskaran Sarcar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.4\\microsoft.aspnetcore.app.ref.6.0.4.nupkg.sha512",
+    "C:\\Users\\Vaskaran Sarcar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.4\\microsoft.windowsdesktop.app.ref.6.0.4.nupkg.sha512",
+    "C:\\Users\\Vaskaran Sarcar\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.4\\microsoft.netcore.app.ref.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

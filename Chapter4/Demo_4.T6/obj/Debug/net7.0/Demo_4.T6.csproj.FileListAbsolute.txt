@@ -1,0 +1,15 @@
+E:\MyPrograms\TestC#Skills\ClassAndObjects\Demo_4.T6\bin\Debug\net7.0\Demo_4.T6.exe
+E:\MyPrograms\TestC#Skills\ClassAndObjects\Demo_4.T6\bin\Debug\net7.0\Demo_4.T6.deps.json
+E:\MyPrograms\TestC#Skills\ClassAndObjects\Demo_4.T6\bin\Debug\net7.0\Demo_4.T6.runtimeconfig.json
+E:\MyPrograms\TestC#Skills\ClassAndObjects\Demo_4.T6\bin\Debug\net7.0\Demo_4.T6.dll
+E:\MyPrograms\TestC#Skills\ClassAndObjects\Demo_4.T6\bin\Debug\net7.0\Demo_4.T6.pdb
+E:\MyPrograms\TestC#Skills\ClassAndObjects\Demo_4.T6\obj\Debug\net7.0\Demo_4.T6.csproj.AssemblyReference.cache
+E:\MyPrograms\TestC#Skills\ClassAndObjects\Demo_4.T6\obj\Debug\net7.0\Demo_4.T6.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\TestC#Skills\ClassAndObjects\Demo_4.T6\obj\Debug\net7.0\Demo_4.T6.AssemblyInfoInputs.cache
+E:\MyPrograms\TestC#Skills\ClassAndObjects\Demo_4.T6\obj\Debug\net7.0\Demo_4.T6.AssemblyInfo.cs
+E:\MyPrograms\TestC#Skills\ClassAndObjects\Demo_4.T6\obj\Debug\net7.0\Demo_4.T6.csproj.CoreCompileInputs.cache
+E:\MyPrograms\TestC#Skills\ClassAndObjects\Demo_4.T6\obj\Debug\net7.0\Demo_4.T6.dll
+E:\MyPrograms\TestC#Skills\ClassAndObjects\Demo_4.T6\obj\Debug\net7.0\refint\Demo_4.T6.dll
+E:\MyPrograms\TestC#Skills\ClassAndObjects\Demo_4.T6\obj\Debug\net7.0\Demo_4.T6.pdb
+E:\MyPrograms\TestC#Skills\ClassAndObjects\Demo_4.T6\obj\Debug\net7.0\Demo_4.T6.genruntimeconfig.cache
+E:\MyPrograms\TestC#Skills\ClassAndObjects\Demo_4.T6\obj\Debug\net7.0\ref\Demo_4.T6.dll

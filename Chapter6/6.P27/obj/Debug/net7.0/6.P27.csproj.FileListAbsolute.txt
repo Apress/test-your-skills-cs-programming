@@ -1,0 +1,15 @@
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P27\bin\Debug\net7.0\6.P27.exe
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P27\bin\Debug\net7.0\6.P27.deps.json
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P27\bin\Debug\net7.0\6.P27.runtimeconfig.json
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P27\bin\Debug\net7.0\6.P27.dll
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P27\bin\Debug\net7.0\6.P27.pdb
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P27\obj\Debug\net7.0\6.P27.csproj.AssemblyReference.cache
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P27\obj\Debug\net7.0\6.P27.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P27\obj\Debug\net7.0\6.P27.AssemblyInfoInputs.cache
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P27\obj\Debug\net7.0\6.P27.AssemblyInfo.cs
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P27\obj\Debug\net7.0\6.P27.csproj.CoreCompileInputs.cache
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P27\obj\Debug\net7.0\6.P27.dll
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P27\obj\Debug\net7.0\refint\6.P27.dll
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P27\obj\Debug\net7.0\6.P27.pdb
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P27\obj\Debug\net7.0\6.P27.genruntimeconfig.cache
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P27\obj\Debug\net7.0\ref\6.P27.dll

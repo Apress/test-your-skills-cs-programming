@@ -1,0 +1,15 @@
+E:\MyPrograms\TestC#Skills\ClassAndObjects\UseOfOptionalParameters\bin\Debug\net6.0\UseOfOptionalParameters.exe
+E:\MyPrograms\TestC#Skills\ClassAndObjects\UseOfOptionalParameters\bin\Debug\net6.0\UseOfOptionalParameters.deps.json
+E:\MyPrograms\TestC#Skills\ClassAndObjects\UseOfOptionalParameters\bin\Debug\net6.0\UseOfOptionalParameters.runtimeconfig.json
+E:\MyPrograms\TestC#Skills\ClassAndObjects\UseOfOptionalParameters\bin\Debug\net6.0\UseOfOptionalParameters.dll
+E:\MyPrograms\TestC#Skills\ClassAndObjects\UseOfOptionalParameters\bin\Debug\net6.0\UseOfOptionalParameters.pdb
+E:\MyPrograms\TestC#Skills\ClassAndObjects\UseOfOptionalParameters\obj\Debug\net6.0\UseOfOptionalParameters.csproj.AssemblyReference.cache
+E:\MyPrograms\TestC#Skills\ClassAndObjects\UseOfOptionalParameters\obj\Debug\net6.0\UseOfOptionalParameters.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\TestC#Skills\ClassAndObjects\UseOfOptionalParameters\obj\Debug\net6.0\UseOfOptionalParameters.AssemblyInfoInputs.cache
+E:\MyPrograms\TestC#Skills\ClassAndObjects\UseOfOptionalParameters\obj\Debug\net6.0\UseOfOptionalParameters.AssemblyInfo.cs
+E:\MyPrograms\TestC#Skills\ClassAndObjects\UseOfOptionalParameters\obj\Debug\net6.0\UseOfOptionalParameters.csproj.CoreCompileInputs.cache
+E:\MyPrograms\TestC#Skills\ClassAndObjects\UseOfOptionalParameters\obj\Debug\net6.0\UseOfOptionalParameters.dll
+E:\MyPrograms\TestC#Skills\ClassAndObjects\UseOfOptionalParameters\obj\Debug\net6.0\ref\UseOfOptionalParameters.dll
+E:\MyPrograms\TestC#Skills\ClassAndObjects\UseOfOptionalParameters\obj\Debug\net6.0\UseOfOptionalParameters.pdb
+E:\MyPrograms\TestC#Skills\ClassAndObjects\UseOfOptionalParameters\obj\Debug\net6.0\UseOfOptionalParameters.genruntimeconfig.cache
+E:\MyPrograms\TestC#Skills\ClassAndObjects\UseOfOptionalParameters\obj\Debug\net6.0\refint\UseOfOptionalParameters.dll

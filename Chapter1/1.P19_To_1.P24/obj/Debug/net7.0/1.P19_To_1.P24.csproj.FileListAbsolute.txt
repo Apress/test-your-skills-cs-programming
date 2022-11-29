@@ -1,0 +1,15 @@
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P19_To_1.P24\bin\Debug\net7.0\1.P19_To_1.P24.exe
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P19_To_1.P24\bin\Debug\net7.0\1.P19_To_1.P24.deps.json
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P19_To_1.P24\bin\Debug\net7.0\1.P19_To_1.P24.runtimeconfig.json
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P19_To_1.P24\bin\Debug\net7.0\1.P19_To_1.P24.dll
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P19_To_1.P24\bin\Debug\net7.0\1.P19_To_1.P24.pdb
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P19_To_1.P24\obj\Debug\net7.0\1.P19_To_1.P24.csproj.AssemblyReference.cache
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P19_To_1.P24\obj\Debug\net7.0\1.P19_To_1.P24.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P19_To_1.P24\obj\Debug\net7.0\1.P19_To_1.P24.AssemblyInfoInputs.cache
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P19_To_1.P24\obj\Debug\net7.0\1.P19_To_1.P24.AssemblyInfo.cs
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P19_To_1.P24\obj\Debug\net7.0\1.P19_To_1.P24.csproj.CoreCompileInputs.cache
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P19_To_1.P24\obj\Debug\net7.0\1.P19_To_1.P24.dll
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P19_To_1.P24\obj\Debug\net7.0\refint\1.P19_To_1.P24.dll
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P19_To_1.P24\obj\Debug\net7.0\1.P19_To_1.P24.pdb
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P19_To_1.P24\obj\Debug\net7.0\1.P19_To_1.P24.genruntimeconfig.cache
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P19_To_1.P24\obj\Debug\net7.0\ref\1.P19_To_1.P24.dll

@@ -1,0 +1,15 @@
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P5\bin\Debug\net7.0\1.P5.exe
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P5\bin\Debug\net7.0\1.P5.deps.json
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P5\bin\Debug\net7.0\1.P5.runtimeconfig.json
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P5\bin\Debug\net7.0\1.P5.dll
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P5\bin\Debug\net7.0\1.P5.pdb
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P5\obj\Debug\net7.0\1.P5.csproj.AssemblyReference.cache
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P5\obj\Debug\net7.0\1.P5.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P5\obj\Debug\net7.0\1.P5.AssemblyInfoInputs.cache
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P5\obj\Debug\net7.0\1.P5.AssemblyInfo.cs
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P5\obj\Debug\net7.0\1.P5.csproj.CoreCompileInputs.cache
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P5\obj\Debug\net7.0\1.P5.dll
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P5\obj\Debug\net7.0\refint\1.P5.dll
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P5\obj\Debug\net7.0\1.P5.pdb
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P5\obj\Debug\net7.0\1.P5.genruntimeconfig.cache
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P5\obj\Debug\net7.0\ref\1.P5.dll

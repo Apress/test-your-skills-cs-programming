@@ -1,0 +1,15 @@
+E:\MyPrograms\TestC#Skills\Chapter3Solution\3.P16\bin\Debug\net6.0\3.P16.exe
+E:\MyPrograms\TestC#Skills\Chapter3Solution\3.P16\bin\Debug\net6.0\3.P16.deps.json
+E:\MyPrograms\TestC#Skills\Chapter3Solution\3.P16\bin\Debug\net6.0\3.P16.runtimeconfig.json
+E:\MyPrograms\TestC#Skills\Chapter3Solution\3.P16\bin\Debug\net6.0\3.P16.dll
+E:\MyPrograms\TestC#Skills\Chapter3Solution\3.P16\bin\Debug\net6.0\ref\3.P16.dll
+E:\MyPrograms\TestC#Skills\Chapter3Solution\3.P16\bin\Debug\net6.0\3.P16.pdb
+E:\MyPrograms\TestC#Skills\Chapter3Solution\3.P16\obj\Debug\net6.0\3.P16.csproj.AssemblyReference.cache
+E:\MyPrograms\TestC#Skills\Chapter3Solution\3.P16\obj\Debug\net6.0\3.P16.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\TestC#Skills\Chapter3Solution\3.P16\obj\Debug\net6.0\3.P16.AssemblyInfoInputs.cache
+E:\MyPrograms\TestC#Skills\Chapter3Solution\3.P16\obj\Debug\net6.0\3.P16.AssemblyInfo.cs
+E:\MyPrograms\TestC#Skills\Chapter3Solution\3.P16\obj\Debug\net6.0\3.P16.csproj.CoreCompileInputs.cache
+E:\MyPrograms\TestC#Skills\Chapter3Solution\3.P16\obj\Debug\net6.0\3.P16.dll
+E:\MyPrograms\TestC#Skills\Chapter3Solution\3.P16\obj\Debug\net6.0\ref\3.P16.dll
+E:\MyPrograms\TestC#Skills\Chapter3Solution\3.P16\obj\Debug\net6.0\3.P16.pdb
+E:\MyPrograms\TestC#Skills\Chapter3Solution\3.P16\obj\Debug\net6.0\3.P16.genruntimeconfig.cache

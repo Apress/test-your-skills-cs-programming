@@ -1,0 +1,15 @@
+E:\MyPrograms\TestC#Skills\Chapter9Solution\Demo_9.T11\bin\Debug\net7.0\Demo_9.T11.exe
+E:\MyPrograms\TestC#Skills\Chapter9Solution\Demo_9.T11\bin\Debug\net7.0\Demo_9.T11.deps.json
+E:\MyPrograms\TestC#Skills\Chapter9Solution\Demo_9.T11\bin\Debug\net7.0\Demo_9.T11.runtimeconfig.json
+E:\MyPrograms\TestC#Skills\Chapter9Solution\Demo_9.T11\bin\Debug\net7.0\Demo_9.T11.dll
+E:\MyPrograms\TestC#Skills\Chapter9Solution\Demo_9.T11\bin\Debug\net7.0\Demo_9.T11.pdb
+E:\MyPrograms\TestC#Skills\Chapter9Solution\Demo_9.T11\obj\Debug\net7.0\Demo_9.T11.csproj.AssemblyReference.cache
+E:\MyPrograms\TestC#Skills\Chapter9Solution\Demo_9.T11\obj\Debug\net7.0\Demo_9.T11.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\TestC#Skills\Chapter9Solution\Demo_9.T11\obj\Debug\net7.0\Demo_9.T11.AssemblyInfoInputs.cache
+E:\MyPrograms\TestC#Skills\Chapter9Solution\Demo_9.T11\obj\Debug\net7.0\Demo_9.T11.AssemblyInfo.cs
+E:\MyPrograms\TestC#Skills\Chapter9Solution\Demo_9.T11\obj\Debug\net7.0\Demo_9.T11.csproj.CoreCompileInputs.cache
+E:\MyPrograms\TestC#Skills\Chapter9Solution\Demo_9.T11\obj\Debug\net7.0\Demo_9.T11.dll
+E:\MyPrograms\TestC#Skills\Chapter9Solution\Demo_9.T11\obj\Debug\net7.0\refint\Demo_9.T11.dll
+E:\MyPrograms\TestC#Skills\Chapter9Solution\Demo_9.T11\obj\Debug\net7.0\Demo_9.T11.pdb
+E:\MyPrograms\TestC#Skills\Chapter9Solution\Demo_9.T11\obj\Debug\net7.0\Demo_9.T11.genruntimeconfig.cache
+E:\MyPrograms\TestC#Skills\Chapter9Solution\Demo_9.T11\obj\Debug\net7.0\ref\Demo_9.T11.dll

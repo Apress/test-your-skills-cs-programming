@@ -1,0 +1,15 @@
+E:\MyPrograms\TestC#Skills\Exceptions\Program6\bin\Debug\net6.0\Program6.exe
+E:\MyPrograms\TestC#Skills\Exceptions\Program6\bin\Debug\net6.0\Program6.deps.json
+E:\MyPrograms\TestC#Skills\Exceptions\Program6\bin\Debug\net6.0\Program6.runtimeconfig.json
+E:\MyPrograms\TestC#Skills\Exceptions\Program6\bin\Debug\net6.0\Program6.dll
+E:\MyPrograms\TestC#Skills\Exceptions\Program6\bin\Debug\net6.0\ref\Program6.dll
+E:\MyPrograms\TestC#Skills\Exceptions\Program6\bin\Debug\net6.0\Program6.pdb
+E:\MyPrograms\TestC#Skills\Exceptions\Program6\obj\Debug\net6.0\Program6.csproj.AssemblyReference.cache
+E:\MyPrograms\TestC#Skills\Exceptions\Program6\obj\Debug\net6.0\Program6.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\TestC#Skills\Exceptions\Program6\obj\Debug\net6.0\Program6.AssemblyInfoInputs.cache
+E:\MyPrograms\TestC#Skills\Exceptions\Program6\obj\Debug\net6.0\Program6.AssemblyInfo.cs
+E:\MyPrograms\TestC#Skills\Exceptions\Program6\obj\Debug\net6.0\Program6.csproj.CoreCompileInputs.cache
+E:\MyPrograms\TestC#Skills\Exceptions\Program6\obj\Debug\net6.0\Program6.dll
+E:\MyPrograms\TestC#Skills\Exceptions\Program6\obj\Debug\net6.0\ref\Program6.dll
+E:\MyPrograms\TestC#Skills\Exceptions\Program6\obj\Debug\net6.0\Program6.pdb
+E:\MyPrograms\TestC#Skills\Exceptions\Program6\obj\Debug\net6.0\Program6.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\MyPrograms\TestC#Skills\Properties\Program17\bin\Debug\net6.0\Program17.exe
+E:\MyPrograms\TestC#Skills\Properties\Program17\bin\Debug\net6.0\Program17.deps.json
+E:\MyPrograms\TestC#Skills\Properties\Program17\bin\Debug\net6.0\Program17.runtimeconfig.json
+E:\MyPrograms\TestC#Skills\Properties\Program17\bin\Debug\net6.0\Program17.dll
+E:\MyPrograms\TestC#Skills\Properties\Program17\bin\Debug\net6.0\ref\Program17.dll
+E:\MyPrograms\TestC#Skills\Properties\Program17\bin\Debug\net6.0\Program17.pdb
+E:\MyPrograms\TestC#Skills\Properties\Program17\obj\Debug\net6.0\Program17.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\TestC#Skills\Properties\Program17\obj\Debug\net6.0\Program17.AssemblyInfoInputs.cache
+E:\MyPrograms\TestC#Skills\Properties\Program17\obj\Debug\net6.0\Program17.AssemblyInfo.cs
+E:\MyPrograms\TestC#Skills\Properties\Program17\obj\Debug\net6.0\Program17.csproj.CoreCompileInputs.cache
+E:\MyPrograms\TestC#Skills\Properties\Program17\obj\Debug\net6.0\Program17.dll
+E:\MyPrograms\TestC#Skills\Properties\Program17\obj\Debug\net6.0\ref\Program17.dll
+E:\MyPrograms\TestC#Skills\Properties\Program17\obj\Debug\net6.0\Program17.pdb
+E:\MyPrograms\TestC#Skills\Properties\Program17\obj\Debug\net6.0\Program17.genruntimeconfig.cache

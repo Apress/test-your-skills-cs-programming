@@ -1,0 +1,15 @@
+E:\MyPrograms\TestC#Skills\Chapter7Solution\Demo_7.5C\bin\Debug\net7.0\Demo_7.5C.exe
+E:\MyPrograms\TestC#Skills\Chapter7Solution\Demo_7.5C\bin\Debug\net7.0\Demo_7.5C.deps.json
+E:\MyPrograms\TestC#Skills\Chapter7Solution\Demo_7.5C\bin\Debug\net7.0\Demo_7.5C.runtimeconfig.json
+E:\MyPrograms\TestC#Skills\Chapter7Solution\Demo_7.5C\bin\Debug\net7.0\Demo_7.5C.dll
+E:\MyPrograms\TestC#Skills\Chapter7Solution\Demo_7.5C\bin\Debug\net7.0\Demo_7.5C.pdb
+E:\MyPrograms\TestC#Skills\Chapter7Solution\Demo_7.5C\obj\Debug\net7.0\Demo_7.5C.csproj.AssemblyReference.cache
+E:\MyPrograms\TestC#Skills\Chapter7Solution\Demo_7.5C\obj\Debug\net7.0\Demo_7.5C.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\TestC#Skills\Chapter7Solution\Demo_7.5C\obj\Debug\net7.0\Demo_7.5C.AssemblyInfoInputs.cache
+E:\MyPrograms\TestC#Skills\Chapter7Solution\Demo_7.5C\obj\Debug\net7.0\Demo_7.5C.AssemblyInfo.cs
+E:\MyPrograms\TestC#Skills\Chapter7Solution\Demo_7.5C\obj\Debug\net7.0\Demo_7.5C.csproj.CoreCompileInputs.cache
+E:\MyPrograms\TestC#Skills\Chapter7Solution\Demo_7.5C\obj\Debug\net7.0\Demo_7.5C.dll
+E:\MyPrograms\TestC#Skills\Chapter7Solution\Demo_7.5C\obj\Debug\net7.0\refint\Demo_7.5C.dll
+E:\MyPrograms\TestC#Skills\Chapter7Solution\Demo_7.5C\obj\Debug\net7.0\Demo_7.5C.pdb
+E:\MyPrograms\TestC#Skills\Chapter7Solution\Demo_7.5C\obj\Debug\net7.0\Demo_7.5C.genruntimeconfig.cache
+E:\MyPrograms\TestC#Skills\Chapter7Solution\Demo_7.5C\obj\Debug\net7.0\ref\Demo_7.5C.dll

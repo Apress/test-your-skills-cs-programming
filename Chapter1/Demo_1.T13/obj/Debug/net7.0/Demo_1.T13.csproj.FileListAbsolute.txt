@@ -1,0 +1,15 @@
+E:\MyPrograms\TestC#Skills\Fundamentals\Demo_1.T13\bin\Debug\net7.0\Demo_1.T13.exe
+E:\MyPrograms\TestC#Skills\Fundamentals\Demo_1.T13\bin\Debug\net7.0\Demo_1.T13.deps.json
+E:\MyPrograms\TestC#Skills\Fundamentals\Demo_1.T13\bin\Debug\net7.0\Demo_1.T13.runtimeconfig.json
+E:\MyPrograms\TestC#Skills\Fundamentals\Demo_1.T13\bin\Debug\net7.0\Demo_1.T13.dll
+E:\MyPrograms\TestC#Skills\Fundamentals\Demo_1.T13\bin\Debug\net7.0\Demo_1.T13.pdb
+E:\MyPrograms\TestC#Skills\Fundamentals\Demo_1.T13\obj\Debug\net7.0\Demo_1.T13.csproj.AssemblyReference.cache
+E:\MyPrograms\TestC#Skills\Fundamentals\Demo_1.T13\obj\Debug\net7.0\Demo_1.T13.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\TestC#Skills\Fundamentals\Demo_1.T13\obj\Debug\net7.0\Demo_1.T13.AssemblyInfoInputs.cache
+E:\MyPrograms\TestC#Skills\Fundamentals\Demo_1.T13\obj\Debug\net7.0\Demo_1.T13.AssemblyInfo.cs
+E:\MyPrograms\TestC#Skills\Fundamentals\Demo_1.T13\obj\Debug\net7.0\Demo_1.T13.csproj.CoreCompileInputs.cache
+E:\MyPrograms\TestC#Skills\Fundamentals\Demo_1.T13\obj\Debug\net7.0\Demo_1.T13.dll
+E:\MyPrograms\TestC#Skills\Fundamentals\Demo_1.T13\obj\Debug\net7.0\refint\Demo_1.T13.dll
+E:\MyPrograms\TestC#Skills\Fundamentals\Demo_1.T13\obj\Debug\net7.0\Demo_1.T13.pdb
+E:\MyPrograms\TestC#Skills\Fundamentals\Demo_1.T13\obj\Debug\net7.0\Demo_1.T13.genruntimeconfig.cache
+E:\MyPrograms\TestC#Skills\Fundamentals\Demo_1.T13\obj\Debug\net7.0\ref\Demo_1.T13.dll

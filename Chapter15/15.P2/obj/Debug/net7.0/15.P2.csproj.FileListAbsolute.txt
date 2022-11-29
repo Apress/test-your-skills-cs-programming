@@ -1,0 +1,15 @@
+E:\MyPrograms\TestC#Skills\Chapter15Solution\15.P2\obj\Debug\net7.0\15.P2.csproj.AssemblyReference.cache
+E:\MyPrograms\TestC#Skills\Chapter15Solution\15.P2\obj\Debug\net7.0\15.P2.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\TestC#Skills\Chapter15Solution\15.P2\obj\Debug\net7.0\15.P2.AssemblyInfoInputs.cache
+E:\MyPrograms\TestC#Skills\Chapter15Solution\15.P2\obj\Debug\net7.0\15.P2.AssemblyInfo.cs
+E:\MyPrograms\TestC#Skills\Chapter15Solution\15.P2\obj\Debug\net7.0\15.P2.csproj.CoreCompileInputs.cache
+E:\MyPrograms\TestC#Skills\Chapter15Solution\15.P2\bin\Debug\net7.0\15.P2.exe
+E:\MyPrograms\TestC#Skills\Chapter15Solution\15.P2\bin\Debug\net7.0\15.P2.deps.json
+E:\MyPrograms\TestC#Skills\Chapter15Solution\15.P2\bin\Debug\net7.0\15.P2.runtimeconfig.json
+E:\MyPrograms\TestC#Skills\Chapter15Solution\15.P2\bin\Debug\net7.0\15.P2.dll
+E:\MyPrograms\TestC#Skills\Chapter15Solution\15.P2\bin\Debug\net7.0\15.P2.pdb
+E:\MyPrograms\TestC#Skills\Chapter15Solution\15.P2\obj\Debug\net7.0\15.P2.dll
+E:\MyPrograms\TestC#Skills\Chapter15Solution\15.P2\obj\Debug\net7.0\refint\15.P2.dll
+E:\MyPrograms\TestC#Skills\Chapter15Solution\15.P2\obj\Debug\net7.0\15.P2.pdb
+E:\MyPrograms\TestC#Skills\Chapter15Solution\15.P2\obj\Debug\net7.0\15.P2.genruntimeconfig.cache
+E:\MyPrograms\TestC#Skills\Chapter15Solution\15.P2\obj\Debug\net7.0\ref\15.P2.dll

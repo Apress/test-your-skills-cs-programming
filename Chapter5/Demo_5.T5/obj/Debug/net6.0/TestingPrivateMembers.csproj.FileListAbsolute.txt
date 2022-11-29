@@ -1,0 +1,15 @@
+E:\MyPrograms\TestC#Skills\Inheritance\TestingPrivateMembers\obj\Debug\net6.0\TestingPrivateMembers.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\TestC#Skills\Inheritance\TestingPrivateMembers\obj\Debug\net6.0\TestingPrivateMembers.AssemblyInfoInputs.cache
+E:\MyPrograms\TestC#Skills\Inheritance\TestingPrivateMembers\obj\Debug\net6.0\TestingPrivateMembers.AssemblyInfo.cs
+E:\MyPrograms\TestC#Skills\Inheritance\TestingPrivateMembers\obj\Debug\net6.0\TestingPrivateMembers.csproj.CoreCompileInputs.cache
+E:\MyPrograms\TestC#Skills\Inheritance\TestingPrivateMembers\bin\Debug\net6.0\TestingPrivateMembers.exe
+E:\MyPrograms\TestC#Skills\Inheritance\TestingPrivateMembers\bin\Debug\net6.0\TestingPrivateMembers.deps.json
+E:\MyPrograms\TestC#Skills\Inheritance\TestingPrivateMembers\bin\Debug\net6.0\TestingPrivateMembers.runtimeconfig.json
+E:\MyPrograms\TestC#Skills\Inheritance\TestingPrivateMembers\bin\Debug\net6.0\TestingPrivateMembers.dll
+E:\MyPrograms\TestC#Skills\Inheritance\TestingPrivateMembers\bin\Debug\net6.0\TestingPrivateMembers.pdb
+E:\MyPrograms\TestC#Skills\Inheritance\TestingPrivateMembers\obj\Debug\net6.0\TestingPrivateMembers.dll
+E:\MyPrograms\TestC#Skills\Inheritance\TestingPrivateMembers\obj\Debug\net6.0\ref\TestingPrivateMembers.dll
+E:\MyPrograms\TestC#Skills\Inheritance\TestingPrivateMembers\obj\Debug\net6.0\TestingPrivateMembers.pdb
+E:\MyPrograms\TestC#Skills\Inheritance\TestingPrivateMembers\obj\Debug\net6.0\TestingPrivateMembers.genruntimeconfig.cache
+E:\MyPrograms\TestC#Skills\Inheritance\TestingPrivateMembers\obj\Debug\net6.0\TestingPrivateMembers.csproj.AssemblyReference.cache
+E:\MyPrograms\TestC#Skills\Inheritance\TestingPrivateMembers\obj\Debug\net6.0\refint\TestingPrivateMembers.dll

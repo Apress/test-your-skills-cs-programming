@@ -1,0 +1,15 @@
+E:\MyPrograms\TestC#Skills\Chapter11Solution\11.P4\bin\Debug\net6.0\11.P4.exe
+E:\MyPrograms\TestC#Skills\Chapter11Solution\11.P4\bin\Debug\net6.0\11.P4.deps.json
+E:\MyPrograms\TestC#Skills\Chapter11Solution\11.P4\bin\Debug\net6.0\11.P4.runtimeconfig.json
+E:\MyPrograms\TestC#Skills\Chapter11Solution\11.P4\bin\Debug\net6.0\11.P4.dll
+E:\MyPrograms\TestC#Skills\Chapter11Solution\11.P4\bin\Debug\net6.0\11.P4.pdb
+E:\MyPrograms\TestC#Skills\Chapter11Solution\11.P4\obj\Debug\net6.0\11.P4.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\TestC#Skills\Chapter11Solution\11.P4\obj\Debug\net6.0\11.P4.AssemblyInfoInputs.cache
+E:\MyPrograms\TestC#Skills\Chapter11Solution\11.P4\obj\Debug\net6.0\11.P4.AssemblyInfo.cs
+E:\MyPrograms\TestC#Skills\Chapter11Solution\11.P4\obj\Debug\net6.0\11.P4.csproj.CoreCompileInputs.cache
+E:\MyPrograms\TestC#Skills\Chapter11Solution\11.P4\obj\Debug\net6.0\11.P4.dll
+E:\MyPrograms\TestC#Skills\Chapter11Solution\11.P4\obj\Debug\net6.0\ref\11.P4.dll
+E:\MyPrograms\TestC#Skills\Chapter11Solution\11.P4\obj\Debug\net6.0\11.P4.pdb
+E:\MyPrograms\TestC#Skills\Chapter11Solution\11.P4\obj\Debug\net6.0\11.P4.genruntimeconfig.cache
+E:\MyPrograms\TestC#Skills\Chapter11Solution\11.P4\obj\Debug\net6.0\11.P4.csproj.AssemblyReference.cache
+E:\MyPrograms\TestC#Skills\Chapter11Solution\11.P4\obj\Debug\net6.0\refint\11.P4.dll

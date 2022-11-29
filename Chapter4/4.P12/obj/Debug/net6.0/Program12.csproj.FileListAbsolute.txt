@@ -1,0 +1,15 @@
+E:\MyPrograms\TestC#Skills\ClassAndObjects\Program12\bin\Debug\net6.0\Program12.exe
+E:\MyPrograms\TestC#Skills\ClassAndObjects\Program12\bin\Debug\net6.0\Program12.deps.json
+E:\MyPrograms\TestC#Skills\ClassAndObjects\Program12\bin\Debug\net6.0\Program12.runtimeconfig.json
+E:\MyPrograms\TestC#Skills\ClassAndObjects\Program12\bin\Debug\net6.0\Program12.dll
+E:\MyPrograms\TestC#Skills\ClassAndObjects\Program12\bin\Debug\net6.0\Program12.pdb
+E:\MyPrograms\TestC#Skills\ClassAndObjects\Program12\obj\Debug\net6.0\Program12.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\TestC#Skills\ClassAndObjects\Program12\obj\Debug\net6.0\Program12.AssemblyInfoInputs.cache
+E:\MyPrograms\TestC#Skills\ClassAndObjects\Program12\obj\Debug\net6.0\Program12.AssemblyInfo.cs
+E:\MyPrograms\TestC#Skills\ClassAndObjects\Program12\obj\Debug\net6.0\Program12.csproj.CoreCompileInputs.cache
+E:\MyPrograms\TestC#Skills\ClassAndObjects\Program12\obj\Debug\net6.0\Program12.dll
+E:\MyPrograms\TestC#Skills\ClassAndObjects\Program12\obj\Debug\net6.0\ref\Program12.dll
+E:\MyPrograms\TestC#Skills\ClassAndObjects\Program12\obj\Debug\net6.0\Program12.pdb
+E:\MyPrograms\TestC#Skills\ClassAndObjects\Program12\obj\Debug\net6.0\Program12.genruntimeconfig.cache
+E:\MyPrograms\TestC#Skills\ClassAndObjects\Program12\obj\Debug\net6.0\Program12.csproj.AssemblyReference.cache
+E:\MyPrograms\TestC#Skills\ClassAndObjects\Program12\obj\Debug\net6.0\refint\Program12.dll

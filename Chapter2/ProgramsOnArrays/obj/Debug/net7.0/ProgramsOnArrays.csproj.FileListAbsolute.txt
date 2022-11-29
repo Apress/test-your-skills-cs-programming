@@ -1,0 +1,15 @@
+E:\MyPrograms\TestC#Skills\StringsAndArraysSolution\ProgramsOnArrays\bin\Debug\net7.0\ProgramsOnArrays.exe
+E:\MyPrograms\TestC#Skills\StringsAndArraysSolution\ProgramsOnArrays\bin\Debug\net7.0\ProgramsOnArrays.deps.json
+E:\MyPrograms\TestC#Skills\StringsAndArraysSolution\ProgramsOnArrays\bin\Debug\net7.0\ProgramsOnArrays.runtimeconfig.json
+E:\MyPrograms\TestC#Skills\StringsAndArraysSolution\ProgramsOnArrays\bin\Debug\net7.0\ProgramsOnArrays.dll
+E:\MyPrograms\TestC#Skills\StringsAndArraysSolution\ProgramsOnArrays\bin\Debug\net7.0\ProgramsOnArrays.pdb
+E:\MyPrograms\TestC#Skills\StringsAndArraysSolution\ProgramsOnArrays\obj\Debug\net7.0\ProgramsOnArrays.csproj.AssemblyReference.cache
+E:\MyPrograms\TestC#Skills\StringsAndArraysSolution\ProgramsOnArrays\obj\Debug\net7.0\ProgramsOnArrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\TestC#Skills\StringsAndArraysSolution\ProgramsOnArrays\obj\Debug\net7.0\ProgramsOnArrays.AssemblyInfoInputs.cache
+E:\MyPrograms\TestC#Skills\StringsAndArraysSolution\ProgramsOnArrays\obj\Debug\net7.0\ProgramsOnArrays.AssemblyInfo.cs
+E:\MyPrograms\TestC#Skills\StringsAndArraysSolution\ProgramsOnArrays\obj\Debug\net7.0\ProgramsOnArrays.csproj.CoreCompileInputs.cache
+E:\MyPrograms\TestC#Skills\StringsAndArraysSolution\ProgramsOnArrays\obj\Debug\net7.0\ProgramsOnArrays.dll
+E:\MyPrograms\TestC#Skills\StringsAndArraysSolution\ProgramsOnArrays\obj\Debug\net7.0\refint\ProgramsOnArrays.dll
+E:\MyPrograms\TestC#Skills\StringsAndArraysSolution\ProgramsOnArrays\obj\Debug\net7.0\ProgramsOnArrays.pdb
+E:\MyPrograms\TestC#Skills\StringsAndArraysSolution\ProgramsOnArrays\obj\Debug\net7.0\ProgramsOnArrays.genruntimeconfig.cache
+E:\MyPrograms\TestC#Skills\StringsAndArraysSolution\ProgramsOnArrays\obj\Debug\net7.0\ref\ProgramsOnArrays.dll

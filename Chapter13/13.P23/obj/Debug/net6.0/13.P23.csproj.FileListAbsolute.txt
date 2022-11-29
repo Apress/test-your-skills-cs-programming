@@ -1,0 +1,14 @@
+E:\MyPrograms\TestC#Skills\Chapter13Solution\13.P23\bin\Debug\net6.0\13.P23.exe
+E:\MyPrograms\TestC#Skills\Chapter13Solution\13.P23\bin\Debug\net6.0\13.P23.deps.json
+E:\MyPrograms\TestC#Skills\Chapter13Solution\13.P23\bin\Debug\net6.0\13.P23.runtimeconfig.json
+E:\MyPrograms\TestC#Skills\Chapter13Solution\13.P23\bin\Debug\net6.0\13.P23.dll
+E:\MyPrograms\TestC#Skills\Chapter13Solution\13.P23\bin\Debug\net6.0\ref\13.P23.dll
+E:\MyPrograms\TestC#Skills\Chapter13Solution\13.P23\bin\Debug\net6.0\13.P23.pdb
+E:\MyPrograms\TestC#Skills\Chapter13Solution\13.P23\obj\Debug\net6.0\13.P23.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\TestC#Skills\Chapter13Solution\13.P23\obj\Debug\net6.0\13.P23.AssemblyInfoInputs.cache
+E:\MyPrograms\TestC#Skills\Chapter13Solution\13.P23\obj\Debug\net6.0\13.P23.AssemblyInfo.cs
+E:\MyPrograms\TestC#Skills\Chapter13Solution\13.P23\obj\Debug\net6.0\13.P23.csproj.CoreCompileInputs.cache
+E:\MyPrograms\TestC#Skills\Chapter13Solution\13.P23\obj\Debug\net6.0\13.P23.dll
+E:\MyPrograms\TestC#Skills\Chapter13Solution\13.P23\obj\Debug\net6.0\ref\13.P23.dll
+E:\MyPrograms\TestC#Skills\Chapter13Solution\13.P23\obj\Debug\net6.0\13.P23.pdb
+E:\MyPrograms\TestC#Skills\Chapter13Solution\13.P23\obj\Debug\net6.0\13.P23.genruntimeconfig.cache

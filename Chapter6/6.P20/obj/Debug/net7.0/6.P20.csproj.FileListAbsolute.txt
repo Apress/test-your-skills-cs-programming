@@ -1,0 +1,15 @@
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P20\obj\Debug\net7.0\6.P20.csproj.AssemblyReference.cache
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P20\obj\Debug\net7.0\6.P20.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P20\obj\Debug\net7.0\6.P20.AssemblyInfoInputs.cache
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P20\obj\Debug\net7.0\6.P20.AssemblyInfo.cs
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P20\obj\Debug\net7.0\6.P20.csproj.CoreCompileInputs.cache
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P20\bin\Debug\net7.0\6.P20.exe
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P20\bin\Debug\net7.0\6.P20.deps.json
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P20\bin\Debug\net7.0\6.P20.runtimeconfig.json
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P20\bin\Debug\net7.0\6.P20.dll
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P20\bin\Debug\net7.0\6.P20.pdb
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P20\obj\Debug\net7.0\6.P20.dll
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P20\obj\Debug\net7.0\refint\6.P20.dll
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P20\obj\Debug\net7.0\6.P20.pdb
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P20\obj\Debug\net7.0\6.P20.genruntimeconfig.cache
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P20\obj\Debug\net7.0\ref\6.P20.dll

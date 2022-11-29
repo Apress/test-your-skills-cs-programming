@@ -1,0 +1,15 @@
+E:\MyPrograms\TestC#Skills\Chapter9Solution\9.P7\bin\Debug\net7.0\9.P7.exe
+E:\MyPrograms\TestC#Skills\Chapter9Solution\9.P7\bin\Debug\net7.0\9.P7.deps.json
+E:\MyPrograms\TestC#Skills\Chapter9Solution\9.P7\bin\Debug\net7.0\9.P7.runtimeconfig.json
+E:\MyPrograms\TestC#Skills\Chapter9Solution\9.P7\bin\Debug\net7.0\9.P7.dll
+E:\MyPrograms\TestC#Skills\Chapter9Solution\9.P7\bin\Debug\net7.0\9.P7.pdb
+E:\MyPrograms\TestC#Skills\Chapter9Solution\9.P7\obj\Debug\net7.0\9.P7.csproj.AssemblyReference.cache
+E:\MyPrograms\TestC#Skills\Chapter9Solution\9.P7\obj\Debug\net7.0\9.P7.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\TestC#Skills\Chapter9Solution\9.P7\obj\Debug\net7.0\9.P7.AssemblyInfoInputs.cache
+E:\MyPrograms\TestC#Skills\Chapter9Solution\9.P7\obj\Debug\net7.0\9.P7.AssemblyInfo.cs
+E:\MyPrograms\TestC#Skills\Chapter9Solution\9.P7\obj\Debug\net7.0\9.P7.csproj.CoreCompileInputs.cache
+E:\MyPrograms\TestC#Skills\Chapter9Solution\9.P7\obj\Debug\net7.0\9.P7.dll
+E:\MyPrograms\TestC#Skills\Chapter9Solution\9.P7\obj\Debug\net7.0\refint\9.P7.dll
+E:\MyPrograms\TestC#Skills\Chapter9Solution\9.P7\obj\Debug\net7.0\9.P7.pdb
+E:\MyPrograms\TestC#Skills\Chapter9Solution\9.P7\obj\Debug\net7.0\9.P7.genruntimeconfig.cache
+E:\MyPrograms\TestC#Skills\Chapter9Solution\9.P7\obj\Debug\net7.0\ref\9.P7.dll

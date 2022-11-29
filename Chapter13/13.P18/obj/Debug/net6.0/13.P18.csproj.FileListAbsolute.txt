@@ -1,0 +1,15 @@
+E:\MyPrograms\TestC#Skills\Chapter13Solution\13.P18\bin\Debug\net6.0\13.P18.exe
+E:\MyPrograms\TestC#Skills\Chapter13Solution\13.P18\bin\Debug\net6.0\13.P18.deps.json
+E:\MyPrograms\TestC#Skills\Chapter13Solution\13.P18\bin\Debug\net6.0\13.P18.runtimeconfig.json
+E:\MyPrograms\TestC#Skills\Chapter13Solution\13.P18\bin\Debug\net6.0\13.P18.dll
+E:\MyPrograms\TestC#Skills\Chapter13Solution\13.P18\bin\Debug\net6.0\13.P18.pdb
+E:\MyPrograms\TestC#Skills\Chapter13Solution\13.P18\obj\Debug\net6.0\13.P18.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\TestC#Skills\Chapter13Solution\13.P18\obj\Debug\net6.0\13.P18.AssemblyInfoInputs.cache
+E:\MyPrograms\TestC#Skills\Chapter13Solution\13.P18\obj\Debug\net6.0\13.P18.AssemblyInfo.cs
+E:\MyPrograms\TestC#Skills\Chapter13Solution\13.P18\obj\Debug\net6.0\13.P18.csproj.CoreCompileInputs.cache
+E:\MyPrograms\TestC#Skills\Chapter13Solution\13.P18\obj\Debug\net6.0\13.P18.dll
+E:\MyPrograms\TestC#Skills\Chapter13Solution\13.P18\obj\Debug\net6.0\ref\13.P18.dll
+E:\MyPrograms\TestC#Skills\Chapter13Solution\13.P18\obj\Debug\net6.0\13.P18.pdb
+E:\MyPrograms\TestC#Skills\Chapter13Solution\13.P18\obj\Debug\net6.0\13.P18.genruntimeconfig.cache
+E:\MyPrograms\TestC#Skills\Chapter13Solution\13.P18\obj\Debug\net6.0\13.P18.csproj.AssemblyReference.cache
+E:\MyPrograms\TestC#Skills\Chapter13Solution\13.P18\obj\Debug\net6.0\refint\13.P18.dll

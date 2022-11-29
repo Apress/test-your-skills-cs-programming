@@ -1,0 +1,5 @@
+E:\MyPrograms\TestC#Skills\Inheritance\5.P13\obj\Debug\net7.0\5.P13.csproj.AssemblyReference.cache
+E:\MyPrograms\TestC#Skills\Inheritance\5.P13\obj\Debug\net7.0\5.P13.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\TestC#Skills\Inheritance\5.P13\obj\Debug\net7.0\5.P13.AssemblyInfoInputs.cache
+E:\MyPrograms\TestC#Skills\Inheritance\5.P13\obj\Debug\net7.0\5.P13.AssemblyInfo.cs
+E:\MyPrograms\TestC#Skills\Inheritance\5.P13\obj\Debug\net7.0\5.P13.csproj.CoreCompileInputs.cache

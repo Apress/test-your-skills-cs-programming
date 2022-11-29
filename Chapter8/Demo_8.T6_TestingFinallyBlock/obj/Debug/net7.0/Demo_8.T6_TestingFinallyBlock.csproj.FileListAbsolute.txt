@@ -1,0 +1,15 @@
+E:\MyPrograms\TestC#Skills\Exceptions\Demo_8.T6_TestingFinallyBlock\bin\Debug\net7.0\Demo_8.T6_TestingFinallyBlock.exe
+E:\MyPrograms\TestC#Skills\Exceptions\Demo_8.T6_TestingFinallyBlock\bin\Debug\net7.0\Demo_8.T6_TestingFinallyBlock.deps.json
+E:\MyPrograms\TestC#Skills\Exceptions\Demo_8.T6_TestingFinallyBlock\bin\Debug\net7.0\Demo_8.T6_TestingFinallyBlock.runtimeconfig.json
+E:\MyPrograms\TestC#Skills\Exceptions\Demo_8.T6_TestingFinallyBlock\bin\Debug\net7.0\Demo_8.T6_TestingFinallyBlock.dll
+E:\MyPrograms\TestC#Skills\Exceptions\Demo_8.T6_TestingFinallyBlock\bin\Debug\net7.0\Demo_8.T6_TestingFinallyBlock.pdb
+E:\MyPrograms\TestC#Skills\Exceptions\Demo_8.T6_TestingFinallyBlock\obj\Debug\net7.0\Demo_8.T6_TestingFinallyBlock.csproj.AssemblyReference.cache
+E:\MyPrograms\TestC#Skills\Exceptions\Demo_8.T6_TestingFinallyBlock\obj\Debug\net7.0\Demo_8.T6_TestingFinallyBlock.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\TestC#Skills\Exceptions\Demo_8.T6_TestingFinallyBlock\obj\Debug\net7.0\Demo_8.T6_TestingFinallyBlock.AssemblyInfoInputs.cache
+E:\MyPrograms\TestC#Skills\Exceptions\Demo_8.T6_TestingFinallyBlock\obj\Debug\net7.0\Demo_8.T6_TestingFinallyBlock.AssemblyInfo.cs
+E:\MyPrograms\TestC#Skills\Exceptions\Demo_8.T6_TestingFinallyBlock\obj\Debug\net7.0\Demo_8.T6_TestingFinallyBlock.csproj.CoreCompileInputs.cache
+E:\MyPrograms\TestC#Skills\Exceptions\Demo_8.T6_TestingFinallyBlock\obj\Debug\net7.0\Demo_8.T6_TestingFinallyBlock.dll
+E:\MyPrograms\TestC#Skills\Exceptions\Demo_8.T6_TestingFinallyBlock\obj\Debug\net7.0\refint\Demo_8.T6_TestingFinallyBlock.dll
+E:\MyPrograms\TestC#Skills\Exceptions\Demo_8.T6_TestingFinallyBlock\obj\Debug\net7.0\Demo_8.T6_TestingFinallyBlock.pdb
+E:\MyPrograms\TestC#Skills\Exceptions\Demo_8.T6_TestingFinallyBlock\obj\Debug\net7.0\Demo_8.T6_TestingFinallyBlock.genruntimeconfig.cache
+E:\MyPrograms\TestC#Skills\Exceptions\Demo_8.T6_TestingFinallyBlock\obj\Debug\net7.0\ref\Demo_8.T6_TestingFinallyBlock.dll

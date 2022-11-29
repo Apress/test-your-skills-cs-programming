@@ -1,0 +1,14 @@
+E:\MyPrograms\TestC#Skills\Chapter10Solution\PredicateDelegateDemo\bin\Debug\net6.0\PredicateDelegateDemo.exe
+E:\MyPrograms\TestC#Skills\Chapter10Solution\PredicateDelegateDemo\bin\Debug\net6.0\PredicateDelegateDemo.deps.json
+E:\MyPrograms\TestC#Skills\Chapter10Solution\PredicateDelegateDemo\bin\Debug\net6.0\PredicateDelegateDemo.runtimeconfig.json
+E:\MyPrograms\TestC#Skills\Chapter10Solution\PredicateDelegateDemo\bin\Debug\net6.0\PredicateDelegateDemo.dll
+E:\MyPrograms\TestC#Skills\Chapter10Solution\PredicateDelegateDemo\bin\Debug\net6.0\ref\PredicateDelegateDemo.dll
+E:\MyPrograms\TestC#Skills\Chapter10Solution\PredicateDelegateDemo\bin\Debug\net6.0\PredicateDelegateDemo.pdb
+E:\MyPrograms\TestC#Skills\Chapter10Solution\PredicateDelegateDemo\obj\Debug\net6.0\PredicateDelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\TestC#Skills\Chapter10Solution\PredicateDelegateDemo\obj\Debug\net6.0\PredicateDelegateDemo.AssemblyInfoInputs.cache
+E:\MyPrograms\TestC#Skills\Chapter10Solution\PredicateDelegateDemo\obj\Debug\net6.0\PredicateDelegateDemo.AssemblyInfo.cs
+E:\MyPrograms\TestC#Skills\Chapter10Solution\PredicateDelegateDemo\obj\Debug\net6.0\PredicateDelegateDemo.csproj.CoreCompileInputs.cache
+E:\MyPrograms\TestC#Skills\Chapter10Solution\PredicateDelegateDemo\obj\Debug\net6.0\PredicateDelegateDemo.dll
+E:\MyPrograms\TestC#Skills\Chapter10Solution\PredicateDelegateDemo\obj\Debug\net6.0\ref\PredicateDelegateDemo.dll
+E:\MyPrograms\TestC#Skills\Chapter10Solution\PredicateDelegateDemo\obj\Debug\net6.0\PredicateDelegateDemo.pdb
+E:\MyPrograms\TestC#Skills\Chapter10Solution\PredicateDelegateDemo\obj\Debug\net6.0\PredicateDelegateDemo.genruntimeconfig.cache

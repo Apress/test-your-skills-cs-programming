@@ -1,0 +1,15 @@
+E:\MyPrograms\TestC#Skills\Chapter7Solution\Demo_7.T10\bin\Debug\net7.0\Demo_7.T10.exe
+E:\MyPrograms\TestC#Skills\Chapter7Solution\Demo_7.T10\bin\Debug\net7.0\Demo_7.T10.deps.json
+E:\MyPrograms\TestC#Skills\Chapter7Solution\Demo_7.T10\bin\Debug\net7.0\Demo_7.T10.runtimeconfig.json
+E:\MyPrograms\TestC#Skills\Chapter7Solution\Demo_7.T10\bin\Debug\net7.0\Demo_7.T10.dll
+E:\MyPrograms\TestC#Skills\Chapter7Solution\Demo_7.T10\bin\Debug\net7.0\Demo_7.T10.pdb
+E:\MyPrograms\TestC#Skills\Chapter7Solution\Demo_7.T10\obj\Debug\net7.0\Demo_7.T10.csproj.AssemblyReference.cache
+E:\MyPrograms\TestC#Skills\Chapter7Solution\Demo_7.T10\obj\Debug\net7.0\Demo_7.T10.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\TestC#Skills\Chapter7Solution\Demo_7.T10\obj\Debug\net7.0\Demo_7.T10.AssemblyInfoInputs.cache
+E:\MyPrograms\TestC#Skills\Chapter7Solution\Demo_7.T10\obj\Debug\net7.0\Demo_7.T10.AssemblyInfo.cs
+E:\MyPrograms\TestC#Skills\Chapter7Solution\Demo_7.T10\obj\Debug\net7.0\Demo_7.T10.csproj.CoreCompileInputs.cache
+E:\MyPrograms\TestC#Skills\Chapter7Solution\Demo_7.T10\obj\Debug\net7.0\Demo_7.T10.dll
+E:\MyPrograms\TestC#Skills\Chapter7Solution\Demo_7.T10\obj\Debug\net7.0\refint\Demo_7.T10.dll
+E:\MyPrograms\TestC#Skills\Chapter7Solution\Demo_7.T10\obj\Debug\net7.0\Demo_7.T10.pdb
+E:\MyPrograms\TestC#Skills\Chapter7Solution\Demo_7.T10\obj\Debug\net7.0\Demo_7.T10.genruntimeconfig.cache
+E:\MyPrograms\TestC#Skills\Chapter7Solution\Demo_7.T10\obj\Debug\net7.0\ref\Demo_7.T10.dll

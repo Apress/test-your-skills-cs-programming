@@ -1,0 +1,15 @@
+E:\MyPrograms\TestC#Skills\Chapter3Solution\Demo_3.T5\bin\Debug\net7.0\Demo_3.T5.exe
+E:\MyPrograms\TestC#Skills\Chapter3Solution\Demo_3.T5\bin\Debug\net7.0\Demo_3.T5.deps.json
+E:\MyPrograms\TestC#Skills\Chapter3Solution\Demo_3.T5\bin\Debug\net7.0\Demo_3.T5.runtimeconfig.json
+E:\MyPrograms\TestC#Skills\Chapter3Solution\Demo_3.T5\bin\Debug\net7.0\Demo_3.T5.dll
+E:\MyPrograms\TestC#Skills\Chapter3Solution\Demo_3.T5\bin\Debug\net7.0\Demo_3.T5.pdb
+E:\MyPrograms\TestC#Skills\Chapter3Solution\Demo_3.T5\obj\Debug\net7.0\Demo_3.T5.csproj.AssemblyReference.cache
+E:\MyPrograms\TestC#Skills\Chapter3Solution\Demo_3.T5\obj\Debug\net7.0\Demo_3.T5.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\TestC#Skills\Chapter3Solution\Demo_3.T5\obj\Debug\net7.0\Demo_3.T5.AssemblyInfoInputs.cache
+E:\MyPrograms\TestC#Skills\Chapter3Solution\Demo_3.T5\obj\Debug\net7.0\Demo_3.T5.AssemblyInfo.cs
+E:\MyPrograms\TestC#Skills\Chapter3Solution\Demo_3.T5\obj\Debug\net7.0\Demo_3.T5.csproj.CoreCompileInputs.cache
+E:\MyPrograms\TestC#Skills\Chapter3Solution\Demo_3.T5\obj\Debug\net7.0\Demo_3.T5.dll
+E:\MyPrograms\TestC#Skills\Chapter3Solution\Demo_3.T5\obj\Debug\net7.0\refint\Demo_3.T5.dll
+E:\MyPrograms\TestC#Skills\Chapter3Solution\Demo_3.T5\obj\Debug\net7.0\Demo_3.T5.pdb
+E:\MyPrograms\TestC#Skills\Chapter3Solution\Demo_3.T5\obj\Debug\net7.0\Demo_3.T5.genruntimeconfig.cache
+E:\MyPrograms\TestC#Skills\Chapter3Solution\Demo_3.T5\obj\Debug\net7.0\ref\Demo_3.T5.dll

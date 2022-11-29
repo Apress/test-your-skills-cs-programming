@@ -1,0 +1,5 @@
+E:\MyPrograms\TestC#Skills\Chapter15Solution\15.P5\obj\Debug\net5.0\15.P5.csproj.AssemblyReference.cache
+E:\MyPrograms\TestC#Skills\Chapter15Solution\15.P5\obj\Debug\net5.0\15.P5.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\TestC#Skills\Chapter15Solution\15.P5\obj\Debug\net5.0\15.P5.AssemblyInfoInputs.cache
+E:\MyPrograms\TestC#Skills\Chapter15Solution\15.P5\obj\Debug\net5.0\15.P5.AssemblyInfo.cs
+E:\MyPrograms\TestC#Skills\Chapter15Solution\15.P5\obj\Debug\net5.0\15.P5.csproj.CoreCompileInputs.cache

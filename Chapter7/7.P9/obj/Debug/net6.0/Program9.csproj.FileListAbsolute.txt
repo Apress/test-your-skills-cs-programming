@@ -1,0 +1,15 @@
+E:\MyPrograms\TestC#Skills\Properties\Program9\bin\Debug\net6.0\Program9.exe
+E:\MyPrograms\TestC#Skills\Properties\Program9\bin\Debug\net6.0\Program9.deps.json
+E:\MyPrograms\TestC#Skills\Properties\Program9\bin\Debug\net6.0\Program9.runtimeconfig.json
+E:\MyPrograms\TestC#Skills\Properties\Program9\bin\Debug\net6.0\Program9.dll
+E:\MyPrograms\TestC#Skills\Properties\Program9\bin\Debug\net6.0\ref\Program9.dll
+E:\MyPrograms\TestC#Skills\Properties\Program9\bin\Debug\net6.0\Program9.pdb
+E:\MyPrograms\TestC#Skills\Properties\Program9\obj\Debug\net6.0\Program9.csproj.AssemblyReference.cache
+E:\MyPrograms\TestC#Skills\Properties\Program9\obj\Debug\net6.0\Program9.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\TestC#Skills\Properties\Program9\obj\Debug\net6.0\Program9.AssemblyInfoInputs.cache
+E:\MyPrograms\TestC#Skills\Properties\Program9\obj\Debug\net6.0\Program9.AssemblyInfo.cs
+E:\MyPrograms\TestC#Skills\Properties\Program9\obj\Debug\net6.0\Program9.csproj.CoreCompileInputs.cache
+E:\MyPrograms\TestC#Skills\Properties\Program9\obj\Debug\net6.0\Program9.dll
+E:\MyPrograms\TestC#Skills\Properties\Program9\obj\Debug\net6.0\ref\Program9.dll
+E:\MyPrograms\TestC#Skills\Properties\Program9\obj\Debug\net6.0\Program9.pdb
+E:\MyPrograms\TestC#Skills\Properties\Program9\obj\Debug\net6.0\Program9.genruntimeconfig.cache

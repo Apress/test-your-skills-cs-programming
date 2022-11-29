@@ -1,0 +1,15 @@
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P26\bin\Debug\net6.0\1.P26.exe
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P26\bin\Debug\net6.0\1.P26.deps.json
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P26\bin\Debug\net6.0\1.P26.runtimeconfig.json
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P26\bin\Debug\net6.0\1.P26.dll
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P26\bin\Debug\net6.0\1.P26.pdb
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P26\obj\Debug\net6.0\1.P26.csproj.AssemblyReference.cache
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P26\obj\Debug\net6.0\1.P26.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P26\obj\Debug\net6.0\1.P26.AssemblyInfoInputs.cache
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P26\obj\Debug\net6.0\1.P26.AssemblyInfo.cs
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P26\obj\Debug\net6.0\1.P26.csproj.CoreCompileInputs.cache
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P26\obj\Debug\net6.0\1.P26.dll
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P26\obj\Debug\net6.0\ref\1.P26.dll
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P26\obj\Debug\net6.0\1.P26.pdb
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P26\obj\Debug\net6.0\1.P26.genruntimeconfig.cache
+E:\MyPrograms\TestC#Skills\Fundamentals\1.P26\obj\Debug\net6.0\refint\1.P26.dll

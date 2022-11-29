@@ -1,0 +1,15 @@
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P19\bin\Debug\net7.0\6.P19.exe
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P19\bin\Debug\net7.0\6.P19.deps.json
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P19\bin\Debug\net7.0\6.P19.runtimeconfig.json
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P19\bin\Debug\net7.0\6.P19.dll
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P19\bin\Debug\net7.0\6.P19.pdb
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P19\obj\Debug\net7.0\6.P19.csproj.AssemblyReference.cache
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P19\obj\Debug\net7.0\6.P19.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P19\obj\Debug\net7.0\6.P19.AssemblyInfoInputs.cache
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P19\obj\Debug\net7.0\6.P19.AssemblyInfo.cs
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P19\obj\Debug\net7.0\6.P19.csproj.CoreCompileInputs.cache
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P19\obj\Debug\net7.0\6.P19.dll
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P19\obj\Debug\net7.0\refint\6.P19.dll
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P19\obj\Debug\net7.0\6.P19.pdb
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P19\obj\Debug\net7.0\6.P19.genruntimeconfig.cache
+E:\MyPrograms\TestC#Skills\Chapter6Solution\6.P19\obj\Debug\net7.0\ref\6.P19.dll

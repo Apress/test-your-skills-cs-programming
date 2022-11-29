@@ -1,0 +1,15 @@
+E:\MyPrograms\TestC#Skills\Chapter10Solution\10.P10\bin\Debug\net6.0\10.P10.exe
+E:\MyPrograms\TestC#Skills\Chapter10Solution\10.P10\bin\Debug\net6.0\10.P10.deps.json
+E:\MyPrograms\TestC#Skills\Chapter10Solution\10.P10\bin\Debug\net6.0\10.P10.runtimeconfig.json
+E:\MyPrograms\TestC#Skills\Chapter10Solution\10.P10\bin\Debug\net6.0\10.P10.dll
+E:\MyPrograms\TestC#Skills\Chapter10Solution\10.P10\bin\Debug\net6.0\10.P10.pdb
+E:\MyPrograms\TestC#Skills\Chapter10Solution\10.P10\obj\Debug\net6.0\10.P10.csproj.AssemblyReference.cache
+E:\MyPrograms\TestC#Skills\Chapter10Solution\10.P10\obj\Debug\net6.0\10.P10.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\TestC#Skills\Chapter10Solution\10.P10\obj\Debug\net6.0\10.P10.AssemblyInfoInputs.cache
+E:\MyPrograms\TestC#Skills\Chapter10Solution\10.P10\obj\Debug\net6.0\10.P10.AssemblyInfo.cs
+E:\MyPrograms\TestC#Skills\Chapter10Solution\10.P10\obj\Debug\net6.0\10.P10.csproj.CoreCompileInputs.cache
+E:\MyPrograms\TestC#Skills\Chapter10Solution\10.P10\obj\Debug\net6.0\10.P10.dll
+E:\MyPrograms\TestC#Skills\Chapter10Solution\10.P10\obj\Debug\net6.0\refint\10.P10.dll
+E:\MyPrograms\TestC#Skills\Chapter10Solution\10.P10\obj\Debug\net6.0\10.P10.pdb
+E:\MyPrograms\TestC#Skills\Chapter10Solution\10.P10\obj\Debug\net6.0\10.P10.genruntimeconfig.cache
+E:\MyPrograms\TestC#Skills\Chapter10Solution\10.P10\obj\Debug\net6.0\ref\10.P10.dll

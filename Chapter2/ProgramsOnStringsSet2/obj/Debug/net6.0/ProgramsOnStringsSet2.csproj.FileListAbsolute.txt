@@ -1,0 +1,15 @@
+E:\MyPrograms\TestC#Skills\StringsAndArraysSolution\ProgramsOnStringsSet2\bin\Debug\net6.0\ProgramsOnStringsSet2.exe
+E:\MyPrograms\TestC#Skills\StringsAndArraysSolution\ProgramsOnStringsSet2\bin\Debug\net6.0\ProgramsOnStringsSet2.deps.json
+E:\MyPrograms\TestC#Skills\StringsAndArraysSolution\ProgramsOnStringsSet2\bin\Debug\net6.0\ProgramsOnStringsSet2.runtimeconfig.json
+E:\MyPrograms\TestC#Skills\StringsAndArraysSolution\ProgramsOnStringsSet2\bin\Debug\net6.0\ProgramsOnStringsSet2.dll
+E:\MyPrograms\TestC#Skills\StringsAndArraysSolution\ProgramsOnStringsSet2\bin\Debug\net6.0\ProgramsOnStringsSet2.pdb
+E:\MyPrograms\TestC#Skills\StringsAndArraysSolution\ProgramsOnStringsSet2\obj\Debug\net6.0\ProgramsOnStringsSet2.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\TestC#Skills\StringsAndArraysSolution\ProgramsOnStringsSet2\obj\Debug\net6.0\ProgramsOnStringsSet2.AssemblyInfoInputs.cache
+E:\MyPrograms\TestC#Skills\StringsAndArraysSolution\ProgramsOnStringsSet2\obj\Debug\net6.0\ProgramsOnStringsSet2.AssemblyInfo.cs
+E:\MyPrograms\TestC#Skills\StringsAndArraysSolution\ProgramsOnStringsSet2\obj\Debug\net6.0\ProgramsOnStringsSet2.csproj.CoreCompileInputs.cache
+E:\MyPrograms\TestC#Skills\StringsAndArraysSolution\ProgramsOnStringsSet2\obj\Debug\net6.0\ProgramsOnStringsSet2.dll
+E:\MyPrograms\TestC#Skills\StringsAndArraysSolution\ProgramsOnStringsSet2\obj\Debug\net6.0\ref\ProgramsOnStringsSet2.dll
+E:\MyPrograms\TestC#Skills\StringsAndArraysSolution\ProgramsOnStringsSet2\obj\Debug\net6.0\ProgramsOnStringsSet2.pdb
+E:\MyPrograms\TestC#Skills\StringsAndArraysSolution\ProgramsOnStringsSet2\obj\Debug\net6.0\ProgramsOnStringsSet2.genruntimeconfig.cache
+E:\MyPrograms\TestC#Skills\StringsAndArraysSolution\ProgramsOnStringsSet2\obj\Debug\net6.0\ProgramsOnStringsSet2.csproj.AssemblyReference.cache
+E:\MyPrograms\TestC#Skills\StringsAndArraysSolution\ProgramsOnStringsSet2\obj\Debug\net6.0\refint\ProgramsOnStringsSet2.dll

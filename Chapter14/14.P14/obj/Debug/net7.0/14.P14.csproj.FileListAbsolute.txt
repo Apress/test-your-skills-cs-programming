@@ -1,0 +1,15 @@
+E:\MyPrograms\TestC#Skills\Chapter14Solution\14.P14\bin\Debug\net7.0\14.P14.exe
+E:\MyPrograms\TestC#Skills\Chapter14Solution\14.P14\bin\Debug\net7.0\14.P14.deps.json
+E:\MyPrograms\TestC#Skills\Chapter14Solution\14.P14\bin\Debug\net7.0\14.P14.runtimeconfig.json
+E:\MyPrograms\TestC#Skills\Chapter14Solution\14.P14\bin\Debug\net7.0\14.P14.dll
+E:\MyPrograms\TestC#Skills\Chapter14Solution\14.P14\bin\Debug\net7.0\14.P14.pdb
+E:\MyPrograms\TestC#Skills\Chapter14Solution\14.P14\obj\Debug\net7.0\14.P14.csproj.AssemblyReference.cache
+E:\MyPrograms\TestC#Skills\Chapter14Solution\14.P14\obj\Debug\net7.0\14.P14.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\TestC#Skills\Chapter14Solution\14.P14\obj\Debug\net7.0\14.P14.AssemblyInfoInputs.cache
+E:\MyPrograms\TestC#Skills\Chapter14Solution\14.P14\obj\Debug\net7.0\14.P14.AssemblyInfo.cs
+E:\MyPrograms\TestC#Skills\Chapter14Solution\14.P14\obj\Debug\net7.0\14.P14.csproj.CoreCompileInputs.cache
+E:\MyPrograms\TestC#Skills\Chapter14Solution\14.P14\obj\Debug\net7.0\14.P14.dll
+E:\MyPrograms\TestC#Skills\Chapter14Solution\14.P14\obj\Debug\net7.0\refint\14.P14.dll
+E:\MyPrograms\TestC#Skills\Chapter14Solution\14.P14\obj\Debug\net7.0\14.P14.pdb
+E:\MyPrograms\TestC#Skills\Chapter14Solution\14.P14\obj\Debug\net7.0\14.P14.genruntimeconfig.cache
+E:\MyPrograms\TestC#Skills\Chapter14Solution\14.P14\obj\Debug\net7.0\ref\14.P14.dll

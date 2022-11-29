@@ -1,0 +1,15 @@
+E:\MyPrograms\TestC#Skills\Inheritance\5.P5_To_5.P7_SealedKeywordCaseStudies\bin\Debug\net7.0\5.P5_To_5.P7_SealedKeywordCaseStudies.exe
+E:\MyPrograms\TestC#Skills\Inheritance\5.P5_To_5.P7_SealedKeywordCaseStudies\bin\Debug\net7.0\5.P5_To_5.P7_SealedKeywordCaseStudies.deps.json
+E:\MyPrograms\TestC#Skills\Inheritance\5.P5_To_5.P7_SealedKeywordCaseStudies\bin\Debug\net7.0\5.P5_To_5.P7_SealedKeywordCaseStudies.runtimeconfig.json
+E:\MyPrograms\TestC#Skills\Inheritance\5.P5_To_5.P7_SealedKeywordCaseStudies\bin\Debug\net7.0\5.P5_To_5.P7_SealedKeywordCaseStudies.dll
+E:\MyPrograms\TestC#Skills\Inheritance\5.P5_To_5.P7_SealedKeywordCaseStudies\bin\Debug\net7.0\5.P5_To_5.P7_SealedKeywordCaseStudies.pdb
+E:\MyPrograms\TestC#Skills\Inheritance\5.P5_To_5.P7_SealedKeywordCaseStudies\obj\Debug\net7.0\5.P5_To_5.P7_SealedKeywordCaseStudies.csproj.AssemblyReference.cache
+E:\MyPrograms\TestC#Skills\Inheritance\5.P5_To_5.P7_SealedKeywordCaseStudies\obj\Debug\net7.0\5.P5_To_5.P7_SealedKeywordCaseStudies.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\TestC#Skills\Inheritance\5.P5_To_5.P7_SealedKeywordCaseStudies\obj\Debug\net7.0\5.P5_To_5.P7_SealedKeywordCaseStudies.AssemblyInfoInputs.cache
+E:\MyPrograms\TestC#Skills\Inheritance\5.P5_To_5.P7_SealedKeywordCaseStudies\obj\Debug\net7.0\5.P5_To_5.P7_SealedKeywordCaseStudies.AssemblyInfo.cs
+E:\MyPrograms\TestC#Skills\Inheritance\5.P5_To_5.P7_SealedKeywordCaseStudies\obj\Debug\net7.0\5.P5_To_5.P7_SealedKeywordCaseStudies.csproj.CoreCompileInputs.cache
+E:\MyPrograms\TestC#Skills\Inheritance\5.P5_To_5.P7_SealedKeywordCaseStudies\obj\Debug\net7.0\5.P5_To_5.P7_SealedKeywordCaseStudies.dll
+E:\MyPrograms\TestC#Skills\Inheritance\5.P5_To_5.P7_SealedKeywordCaseStudies\obj\Debug\net7.0\refint\5.P5_To_5.P7_SealedKeywordCaseStudies.dll
+E:\MyPrograms\TestC#Skills\Inheritance\5.P5_To_5.P7_SealedKeywordCaseStudies\obj\Debug\net7.0\5.P5_To_5.P7_SealedKeywordCaseStudies.pdb
+E:\MyPrograms\TestC#Skills\Inheritance\5.P5_To_5.P7_SealedKeywordCaseStudies\obj\Debug\net7.0\5.P5_To_5.P7_SealedKeywordCaseStudies.genruntimeconfig.cache
+E:\MyPrograms\TestC#Skills\Inheritance\5.P5_To_5.P7_SealedKeywordCaseStudies\obj\Debug\net7.0\ref\5.P5_To_5.P7_SealedKeywordCaseStudies.dll
